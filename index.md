@@ -5,6 +5,5 @@ Paketista löytyy starter kit Raspberry Pi väsäilyyn!
 * Virtalähde.
 * Mini HDMI to HDMI adapteri. Tämän voi laittaa suoraan Rasperry Pi:hin kiinni jos haluaa laittaa näyttöön kiinni.
 * Micro USB to USB adapteri.
-* Lainaan mun adapteri niin pääset testailemaan tota heti jos kerkeet! 😁
 
-Hyvää joulua! 👾🎄
+Extra bonus: Lainaan mun adapteri niin pääset testailemaan tota heti jos kerkeet! 😁 Hyvää joulua! 👾🎄

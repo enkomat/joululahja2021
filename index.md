@@ -6,6 +6,7 @@
 * Virtalähde.
 * Mini HDMI to HDMI adapteri. Tämän voi laittaa suoraan Rasperry Pi:hin kiinni jos haluaa laittaa näyttöön kiinni.
 * Micro USB to USB adapteri.
+* Logitechin näppis/trackpad kombo.
 
 #### Miten ottaa käyttöön (ainakin mun käsityksen mukaan)
 

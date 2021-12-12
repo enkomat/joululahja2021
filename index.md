@@ -16,6 +16,6 @@
 5. Pistä virtalähde kiinni.
 6. Asenna Raspbian installerin avulla. Tuo aiemmin mainittu New Out Of Box Software installeri pitäisi olla jo valmiina SD kortilla.
 7. Jos Raspbian asennus menee putkeen, jatka [tästä](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/5).
-8. Messissä oleva Raspberry Pi Sense Hat pitäisi saada aika iisisti tohon tossa olevaan pin strippiin kiinni ja sitten [näillä stepeillä](https://magpi.raspberrypi.com/articles/get-started-with-sense-hat) pääsee koodailemaan.
+8. Messissä oleva Raspberry Pi Sense Hat pitäisi saada Raspberry Pi:n pin strippiin kiinni ja sitten [näillä stepeillä](https://magpi.raspberrypi.com/articles/get-started-with-sense-hat) pääsee koodailemaan.
 
 Hyvää joulua! 👾🎄

@@ -4,6 +4,7 @@
 * Brändätty paketti sisältää moneen käyttötarkoitukseen muovautuvan sensorin nimeltä [Raspberry Pi Sense Hat](https://www.youtube.com/watch?v=lRQ48V8p06k). 
 * Micro SD kortti jonka pitäisi sisältää [New Out Of Box Software](https://www.raspberrypi.com/news/introducing-noobs/) appi setuppia helpottamaan.
 * Virtalähde.
+* HDMI piuha.
 * Mini HDMI to HDMI adapteri. Tämän voi laittaa suoraan Rasperry Pi:hin kiinni jos haluaa laittaa näyttöön kiinni.
 * Micro USB to USB adapteri.
 * Logitechin näppis/trackpad kombo.

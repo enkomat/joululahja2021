@@ -13,7 +13,7 @@
 
 1. Ota SD kortista sisältä micro SD ja laita se Raspberry Pi:n micro SD paikkaan.
 2. Yhdistä HDMI piuha lähimpään telkkariin HDMI paikalla ja pienempi pää tietty Raspberry Pi:hin.
-4. Laita näppis kiinni USBilla.
+4. Laita näppis kiinni USBilla. (Toivottavasti ei kauheasti säätöä ajureiden kanssa tms. 😅)
 5. Pistä virtalähde kiinni.
 6. Asenna Raspbian installerin avulla. Tuo aiemmin mainittu New Out Of Box Software installeri pitäisi olla jo valmiina SD kortilla.
 7. Jos Raspbian asennus menee putkeen, jatka [tästä](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/5).

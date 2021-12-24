@@ -1,7 +1,7 @@
 #### Mitä paketissa on
 
 * Valkoinen boksi sisältää itse laitteen, joka on mallia [Raspberry Pi Zero WH](https://www.raspberrypi.com/news/zero-wh/). 
-* Brändätty paketti sisältää moneen käyttötarkoitukseen muovautuvan sensorin nimeltä [Raspberry Pi Sense Hat](https://www.youtube.com/watch?v=lRQ48V8p06k). 
+* Punainen paketti sisältää moneen käyttötarkoitukseen muovautuvan sensorin nimeltä [Raspberry Pi Sense Hat](https://www.youtube.com/watch?v=lRQ48V8p06k). 
 * Micro SD kortti jonka pitäisi sisältää [New Out Of Box Software](https://www.raspberrypi.com/news/introducing-noobs/) appi setuppia helpottamaan.
 * Virtalähde.
 * HDMI piuha.
